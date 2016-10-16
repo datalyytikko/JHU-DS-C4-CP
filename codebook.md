@@ -103,5 +103,5 @@ This databook contains information for only the data this project uses! The refe
     "fBodyBodyGyroJerkMag-std()"      
     "fBodyBodyGyroJerkMag-meanFreq()"
     
-avg
+###avg
     average calculated per subject per activity per variable
