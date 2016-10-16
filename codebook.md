@@ -12,16 +12,16 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 This databook contains information for only the data this project uses! The refer to the original code book, please download the original data.
 
 ## Codes for the data file
-subject 
+###subject 
     from the original work files: train/subject_train.txt, test/subject_test.txt
     contains the id of the subject individual, varies between 1 and 30.
     
-activity_name
+###activity_name
     from the original work y_test and y_train.
     contains name of activity label that subject was doing when measured.
     (WALKING / WALKING_UPSTAIRS / WALKING_DOWNSTAIRS / SITTING / STANDING / LAYING)
     
-variable
+###variable
     variable that has been measured, one in
     "tBodyAcc-mean()-X"
     "tBodyAcc-mean()-Y"               
