@@ -5,16 +5,14 @@ This a readme file for coursera.org JHU Data Scientist Specialization course num
 ##Description
 This github repo contains the the needed the fulfill the course project requirements.
 
-The run_analysis.R file contains the source to fetch, read, modify and write the data. Code has dependencies for several libraries. Note that libraries are not installed for you, but you must install them by yourself. 
+The run_analysis.R file contains the source code to read, modify and write the data. Code has dependencies for several libraries. Note that these libraries are not installed for you, but you must install them by yourself. 
 Required libraries can be found from the beginning of the source code.
 
 ##Folder Structure
-The code creates folder following folder structure under your working directory:
-    data\
-        UCI HAR Dataset\
+The code expects to find the required source data set from the following folder: 
+    UCI HAR Dataset\
 
 ##Other notes
-Under data\ you can find the actual data.
 Code creates avgs.txt file in your working directory.
 
 ##Usage
